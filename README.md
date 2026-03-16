@@ -1,6 +1,9 @@
 # Hola, mi nombre es Daniel Díaz👋
+
 👨‍🎓Técnico en Administración de Sistemas Informáticos en Red
+
 💻 Estudiante de Grado de Ingeniería Informática (3<sup>er</sup> año)
+
 ## 🛠 Tecnologías
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,docker,mongodb,linux,git)](https://skillicons.dev)
