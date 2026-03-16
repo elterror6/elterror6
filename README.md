@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hola, mi nombre es Daniel Díaz👋
+💻 Estudiante de informática
+## 🛠 Tecnologías
 
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,docker,mongodb,linux,git)](https://skillicons.dev)
+
+## 🔭 Actualmente 
+
+Realizando página web con Spring Boot de reserva de inmuebles.
+
+## 📈 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elterror6)
 <!--
 **elterror6/elterror6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
