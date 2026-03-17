@@ -12,6 +12,7 @@
   </a>
 </p>
 <br>
+
 ![elterror6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elterror6&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🔭 Actualmente 
