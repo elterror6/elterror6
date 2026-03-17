@@ -6,7 +6,12 @@
 
 ## 🛠 Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,latex,docker,mongodb,linux,git,github,eclipse&perline=3)](https://skillicons.dev) <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,python,c,html,css,latex,docker,mongodb,linux,git,github,eclipse&perline=3)" />
+  </a>
+</p>
+<br>
 ![elterror6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elterror6&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🔭 Actualmente 
