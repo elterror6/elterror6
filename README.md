@@ -2,7 +2,7 @@
 
 👨‍🎓 Técnico en Administración de Sistemas Informáticos en Red
 
-💻 Estudiante de Grado de Ingeniería Informática (3<sup>er</sup> año)
+💻 Estudiante de Grado de Ingeniería Informática (4<sup>o</sup> año)
 
 ## 🛠 Tecnologías
 
@@ -12,7 +12,7 @@
 
 ## 🔭 Actualmente 
 
-Realizando página web con Spring Boot de reserva de inmuebles.
+Cursando 4<sup>o</sup> año del grado en Ingeniería Informática en la UCLM.
 
 ## 📈 Estadísticas
 
